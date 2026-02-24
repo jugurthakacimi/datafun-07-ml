@@ -1,8 +1,8 @@
 # Pro Analytics 02
 
-[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://denisecase.github.io/pro-analytics-02/)
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://jugurthakacimi.github.io/datafun-07-ml/)
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
-[![CI Status](https://github.com/denisecase/pro-analytics-02/actions/workflows/ci-python-mkdocs.yml/badge.svg?branch=main)](https://github.com/denisecase/pro-analytics-02/actions/workflows/ci-python-mkdocs.yml)
+[![CI Status](https://github.com/jugurthakacimi/datafun-07-ml/actions/workflows/ci-python-mkdocs.yml/badge.svg?branch=main)](https://github.com/jugurthakacimi/datafun-07-ml/actions/workflows/ci-python-mkdocs.yml)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
 
 > Professional Python project starter and guide.
@@ -86,7 +86,7 @@ WHY: Avoid duplicating examples already embodied by the repository.
 ## Documentation
 
 This repository includes an associated
-[**documentation site**](https://denisecase.github.io/pro-analytics-02/).
+[**documentation site**](https://jugurthakacimi.github.io/datafun-07-ml/).
 
 - The site provides both a **reference** and a **worked example**
 - Source files live in the `docs/` directory
@@ -135,9 +135,9 @@ Use the instructions above to get it ALL set up correctly.
 Most people open a terminal on their machine (not VS Code), open in their Repos folder and run:
 
 ```shell
-git clone https://github.com/YOURACCOUNT/pro-analytics-02
+git clone https://github.com/jugurthakacimi/datafun-07-ml
 
-cd pro-analytics-02
+cd datafun-07-ml
 code .
 ```
 
