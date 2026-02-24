@@ -1,4 +1,4 @@
-# Pro Analytics 02
+# Datafun 07: Machine Learning
 
 [![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://jugurthakacimi.github.io/datafun-07-ml/)
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
